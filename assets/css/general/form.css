@@ -64,6 +64,13 @@ textarea {
     cursor: pointer;
 }
 
+.form-button.ml-subscribe {
+    border: 1px solid var(--lighter-gray-color);
+    position: relative;
+    top: unset;
+    right: unset;
+}
+
 .form-button.with-icon {
     padding: 0;
     width: 40px;
